@@ -47,7 +47,7 @@ webGL(移出，移入，加速度)seo
 如：基本类型，判断类型，值访问与引用访问的区别，Object.prototype.toString.call([])=='[Object Array]'  对象内部的class值
 [[class]],v8提供方法。
 
-12.08
+2015.12.08 天气阴
 
 任务
 1、理解事件流
